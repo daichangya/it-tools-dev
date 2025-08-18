@@ -41,7 +41,7 @@ body:
     attributes:
       label: Where did you encounter the bug?
       options:
-        - Public app (it-tools.tech)
+        - Public app (tools.jsdiff.com)
         - A self hosted
         - Other (installations, docker, etc.)
     validations:
