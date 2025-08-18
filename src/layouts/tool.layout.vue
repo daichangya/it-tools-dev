@@ -60,20 +60,11 @@ const toolDescription = computed<string>(() => t(`tools.${i18nKey.value}.descrip
 
 <style lang="less" scoped>
 .tool-content {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: flex-start;
-  flex-wrap: wrap;
-  gap: 16px;
-
-  ::v-deep(& > *) {
-    flex: 0 1 600px;
-  }
+  width: 100%;
 }
 
 .tool-layout {
-  max-width: 600px;
+  width: 100%;
   margin: 0 auto;
   box-sizing: border-box;
 

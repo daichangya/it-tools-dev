@@ -20,18 +20,18 @@ const { isDarkTheme } = toRefs(styleStore);
     </c-button>
   </c-tooltip>
 
-  <c-tooltip :tooltip="$t('home.nav.twitterX')" position="bottom">
-    <c-button
-      circle
-      variant="text"
-      href="https://x.com/ittoolsdottech"
-      rel="noopener"
-      target="_blank"
-      :aria-label="$t('home.nav.twitterXAccount')"
-    >
-      <n-icon size="25" :component="IconBrandX" />
-    </c-button>
-  </c-tooltip>
+<!--  <c-tooltip :tooltip="$t('home.nav.twitterX')" position="bottom">-->
+<!--    <c-button-->
+<!--      circle-->
+<!--      variant="text"-->
+<!--      href="https://x.com/ittoolsdottech"-->
+<!--      rel="noopener"-->
+<!--      target="_blank"-->
+<!--      :aria-label="$t('home.nav.twitterXAccount')"-->
+<!--    >-->
+<!--      <n-icon size="25" :component="IconBrandX" />-->
+<!--    </c-button>-->
+<!--  </c-tooltip>-->
 
   <c-tooltip :tooltip="$t('home.nav.about')" position="bottom">
     <c-button circle variant="text" to="/about" :aria-label="$t('home.nav.aboutLabel')">
