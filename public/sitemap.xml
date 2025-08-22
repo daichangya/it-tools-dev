@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://tools.jsdiff.com</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>1</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/sql-prettify</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/json-minify</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/base64-file-converter</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/base64-string-converter</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/basic-auth-generator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/email-normalizer</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/ascii-text-drawer</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/text-to-unicode</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/safelink-decoder</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/xml-to-json</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/json-to-xml</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/regex-tester</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/regex-memo</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/markdown-to-html</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/pdf-signature-checker</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/numeronym-generator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/mac-address-generator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/text-to-binary</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/ulid-generator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/iban-validator-and-parser</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/string-obfuscator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/text-diff</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/emoji-picker</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/password-strength-analyser</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/yaml-to-toml</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/json-to-toml</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/toml-to-yaml</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/toml-to-jso</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/json-to-csv</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/camera-recorder</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/list-converter</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/phone-parser-and-formatter</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/json-diff</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/ipv4-range-expander</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/http-status-codes</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/yaml-to-json-converter</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/json-to-yaml-converter</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/ipv6-ula-generator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/ipv4-address-converter</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/benchmark-builder</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/user-agent-parser</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/ipv4-subnet-calculator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/docker-run-to-docker-compose-converter</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/html-wysiwyg-editor</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/rsa-key-pair-generator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/text-to-nato-alphabet</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/slugify-string</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/keycode-info</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/json-minify</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/bcrypt</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/bip39-generator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/case-converter</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/chmod-calculator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/chronometer</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/color-converter</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/crontab-generator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/date-time-converter</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/device-information</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/encryption</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/eta-calculator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/percentage-calculator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/git-memo</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/hash-text</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/hmac-generator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/html-entities</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/integer-base-converter</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/json-viewer</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/jwt-parser</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/lorem-ipsum-generator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/math-evaluator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/meta-tag-generator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/mime-types</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/otp-code-generator-and-validator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/qr-code-generator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/wifi-qr-code-generator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/random-port-generator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/roman-numeral-converter</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/sql-prettify</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/svg-placeholder-generator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/temperature-converter</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/text-statistics</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/token-generator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/url-encoder</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/url-parser</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/uuid-generator</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/mac-address-lookup</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/xml-formatter</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://tools.jsdiff.com/yaml-viewer</loc>
+        <lastmod>2025-08-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+</urlset>
